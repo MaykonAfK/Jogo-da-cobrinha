@@ -1,1 +1,1 @@
-# Criando um jogo da cobrinha através de uma video aula da DIO
+# Criando um jogo da cobrinha através do curso da DIO (bootcamp)
